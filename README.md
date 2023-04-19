@@ -4,6 +4,6 @@ This repository is for an ONGOING master dissertation titled: "Non-parametric In
 
 The ongoing dissertation draft contains an incomplete but self-consistent methodology on a non-parametric framework to infer the gravitational potential of a galaxy from a kinematical snapshot, where Gaussian process regression is used as the key statistical method.
 
-The ongoing code contains an application of the framework to a toy model galaxy of isothermal disk.
+The Scripts directory contains an ongoing code for an application of the framework to a toy model galaxy of isothermal disk.
 
 Users will need to install Tensorflow and GPflow Python packages in order to run the code in this repository.
