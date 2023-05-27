@@ -1,6 +1,6 @@
 # GravitationalPotential_GPR
 
-Update: From 27 May 2023 onwards, the dissertation draft will be removed from the repository as it is currently undergoing assessment by the Examiner at the University of Oxford. The final submitted version of the dissertation will be uploaded once the assessment process has been completed.
+UPDATE: From 27 May 2023 onwards, the dissertation draft will be removed from the repository as it is currently undergoing assessment by the Examiner at the University of Oxford. The final submitted version of the dissertation will be uploaded once the assessment process has been completed.
 
 This repository is for an ONGOING master dissertation titled: "Non-parametric Inference of Gravitational Potential of a Galaxy from a Kinematical Snapshot". The expected finishing date would be on 29 May 2023, but so far, note that the project is still INCOMPLETE!!! 
 
